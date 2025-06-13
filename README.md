@@ -14,7 +14,7 @@ Ajudar iniciantes (ou transicionando de suporte ou desenvolvimento) a praticar P
 
 ```
 python-devops-exercises/
-├── 01_backup_logs/              # Script de backup de arquivos .log
+├── 01_backup_logs/             # Script de backup de arquivos .log
 ├── 02_process_monitor/         # Verificação de processo em execução
 ├── 03_log_reader/              # Leitura e filtragem de logs
 ├── 04_git_docker_deploy/       # Automação de deploy com Git e Docker Compose
